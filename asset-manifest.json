@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.838fb9b0.css",
-    "main.js": "/static/js/main.9f434bbd.js",
-    "index.html": "/index.html",
-    "main.838fb9b0.css.map": "/static/css/main.838fb9b0.css.map",
-    "main.9f434bbd.js.map": "/static/js/main.9f434bbd.js.map"
+    "main.css": "/catland/static/css/main.838fb9b0.css",
+    "main.js": "/catland/static/js/main.9f434bbd.js",
+    "index.html": "/catland/index.html",
+    "main.838fb9b0.css.map": "/catland/static/css/main.838fb9b0.css.map",
+    "main.9f434bbd.js.map": "/catland/static/js/main.9f434bbd.js.map"
   },
   "entrypoints": [
     "static/css/main.838fb9b0.css",
