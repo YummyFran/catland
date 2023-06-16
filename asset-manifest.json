@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/catland/static/css/main.acfeba7e.css",
-    "main.js": "/catland/static/js/main.75bd54e5.js",
+    "main.js": "/catland/static/js/main.0ce3782a.js",
     "index.html": "/catland/index.html",
     "main.acfeba7e.css.map": "/catland/static/css/main.acfeba7e.css.map",
-    "main.75bd54e5.js.map": "/catland/static/js/main.75bd54e5.js.map"
+    "main.0ce3782a.js.map": "/catland/static/js/main.0ce3782a.js.map"
   },
   "entrypoints": [
     "static/css/main.acfeba7e.css",
-    "static/js/main.75bd54e5.js"
+    "static/js/main.0ce3782a.js"
   ]
 }
