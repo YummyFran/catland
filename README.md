@@ -1,4 +1,4 @@
-# catland
+# catland | React.js
 
 Live Demo: https://yummyfran.github.io/catland/
 
